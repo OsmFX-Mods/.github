@@ -14,7 +14,7 @@
 
 <br />
 
-<a href="https://osmfxmods.com/store">
+<a href="https://osmfxmods.com">
   <img src="https://img.shields.io/badge/-%F0%9F%9B%92%20%20Browse%20Premium%20Scripts-D4A017?style=for-the-badge&labelColor=0d0d0d&logoColor=white" alt="Browse Premium Scripts" />
 </a>
 &ensp;
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/-💬  Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d" alt="Discord" />
 </a>
 &ensp;
-<a href="https://ko-fi.com/osmfx">
+<a href="https://ko-fi.com/osmfxmods">
   <img src="https://img.shields.io/badge/-☕  Support%20on%20Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=0d0d0d" alt="Ko-fi" />
 </a>
 
